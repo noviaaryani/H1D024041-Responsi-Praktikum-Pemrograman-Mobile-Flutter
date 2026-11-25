@@ -5,14 +5,14 @@ Aplikasi pemantau cuaca berbasis Flutter yang menerapkan pola arsitektur Model-V
 
 ---
 
-## 1. Identitas Mahasiswa
 - **Nama**: Novia Aryani
 - **NIM**: H1D024041
-- **Repository**: [H1D024041-Responsi-Praktikum-Pemrograman-Mobile-Flutter](https://github.com/noviaaryani/H1D024041-Responsi-Praktikum-Pemrograman-Mobile-Flutter)
+- **Shift KRS**: C
+- **Shift Baru**: F
 
 ---
 
-## 2. Screenshot Aplikasi
+## Screenshot Aplikasi
 
 | Home Screen (Cuaca Terkini) | Home Screen (Perkiraan Harian) | Search Screen (Pencarian Lokasi) |
 | :---: | :---: | :---: |
@@ -20,7 +20,7 @@ Aplikasi pemantau cuaca berbasis Flutter yang menerapkan pola arsitektur Model-V
 
 ---
 
-## 3. Arsitektur Aplikasi (MVVM)
+## Arsitektur Aplikasi (MVVM)
 
 Aplikasi dibangun dengan memisahkan kode program ke dalam tiga lapisan utama untuk menjaga keteraturan, kemudahan pengujian, dan skalabilitas kode:
 
@@ -57,7 +57,7 @@ lib/
 
 ---
 
-## 4. Implementasi REST API Open-Meteo
+## Implementasi REST API Open-Meteo
 
 Aplikasi mengonsumsi dua endpoint resmi Open-Meteo menggunakan metode HTTP GET:
 
@@ -86,7 +86,7 @@ Aplikasi mengonsumsi dua endpoint resmi Open-Meteo menggunakan metode HTTP GET:
 
 ---
 
-## 5. Implementasi Local Storage
+## Implementasi Local Storage
 
 Aplikasi mengimplementasikan library `shared_preferences` untuk penyimpanan data secara lokal dan persisten di perangkat:
 - **Lokasi Favorit**: Menyimpan daftar kota favorit yang ditandai oleh pengguna agar tetap tersimpan saat aplikasi ditutup dan dibuka kembali.
@@ -95,7 +95,7 @@ Aplikasi mengimplementasikan library `shared_preferences` untuk penyimpanan data
 
 ---
 
-## 6. Panduan Menjalankan Proyek
+## Panduan Menjalankan Proyek
 
 1. Clone repositori ini:
    ```bash
