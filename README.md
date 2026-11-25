@@ -1,7 +1,7 @@
 # LangitKu - Aplikasi Pemantau Cuaca
 **Responsi Praktikum Pemrograman Mobile (Flutter)**
 
-Aplikasi pemantau cuaca berbasis Flutter yang menerapkan pola arsitektur Model-View-ViewModel (MVVM) dan mengonsumsi REST API publik dari Open-Meteo secara dinamis.
+Aplikasi pemantau cuaca berbasis Flutter yang menerapkan pola arsitektur Model-View-ViewModel (MVVM) dan menggunakan REST API publik dari Open-Meteo secara dinamis.
 
 ---
 
