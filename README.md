@@ -14,9 +14,9 @@ Aplikasi pemantau cuaca berbasis Flutter yang menerapkan pola arsitektur Model-V
 
 ## 2. Screenshot Aplikasi
 
-| Home / Weather Screen | Search & Location Screen |
-| :---: | :---: |
-| *(Screenshot Home Screen)* | *(Screenshot Search Screen)* |
+| Home Screen (Cuaca Terkini) | Home Screen (Perkiraan Harian) | Search Screen (Pencarian Lokasi) |
+| :---: | :---: | :---: |
+| ![Home Screen Cuaca Terkini](screenshots/home_screen_1.jpg) | ![Home Screen Perkiraan Harian](screenshots/home_screen_2.jpg) | ![Search Screen](screenshots/search_screen.png) |
 
 ---
 
