@@ -5,7 +5,7 @@ Aplikasi pemantau cuaca berbasis Flutter yang menerapkan pola arsitektur Model-V
 
 ---
 
-- **Nama**: Novia Aryani
+- **Nama**: Novia Rizky Aryani
 - **NIM**: H1D024041
 - **Shift KRS**: C
 - **Shift Baru**: F
