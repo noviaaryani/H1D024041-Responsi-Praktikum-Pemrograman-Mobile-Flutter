@@ -9,6 +9,7 @@ Aplikasi pemantau cuaca berbasis Flutter yang menerapkan pola arsitektur Model-V
 - **NIM**: H1D024041
 - **Shift KRS**: C
 - **Shift Baru**: F
+- **Link Video Demo & Penjelasan (YouTube)**: https://youtu.be/1oBpWX2kncQ
 
 ---
 
